@@ -1,0 +1,36 @@
+{
+  "ropas": [
+    {
+      "ropa": "Pantalon",
+      "descripcion": "Pantalón de color negro",
+      "cantidad": "20",
+      "precio": "120",
+      "tallas": "S",
+      "id": 1
+    },
+    {
+      "ropa": "Polo",
+      "descripcion": "Polo manga corta",
+      "cantidad": "2",
+      "precio": "40",
+      "tallas": "M-L",
+      "id": 2
+    },
+    {
+      "ropa": "Short",
+      "descripcion": "Short color rojo",
+      "cantidad": "5",
+      "precio": "80",
+      "tallas": "S",
+      "id": 3
+    },
+    {
+      "ropa": "Lentes",
+      "descripcion": "Lentes de sol",
+      "cantidad": "2",
+      "precio": "150",
+      "tallas": "Normal",
+      "id": 4
+    }
+  ]
+}
